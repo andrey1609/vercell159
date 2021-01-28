@@ -1,0 +1,4 @@
+baseURL = "https://lifequotesvreety54.vercel.app"
+languageCode = "en-us"
+title = "Life Quotes Short"
+theme = "tale-hugo-master"
